@@ -2,7 +2,7 @@ import random
 import time
 
 
-print("Poker Night - A very accurate simulation of the casino")
+print("weetflip - A very accurate simulation of the casino")
 print("Base code by ImmuneSnow, modified by weet.")
 input("Press any key to start wasting your life away.")
 time.sleep(1)
